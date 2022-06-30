@@ -10,7 +10,7 @@
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Filipe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://avatars.githubusercontent.com/u/49558962?s=400&u=8c627a765c7881f64af4963dd2989d9d7f66d728&v=4)">
+  <img align="right" alt="Filipe-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/49558962?s=400&u=8c627a765c7881f64af4963dd2989d9d7f66d728&v=4">
 </div>
   
   ##
