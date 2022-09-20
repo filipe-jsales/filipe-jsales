@@ -15,9 +15,8 @@
     <!-- CSS icon -->
     <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <!-- Python icon -->
-    <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <!-- PHP python   -->
     <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <!-- PHP icon        -->
     <!-- Profile picture -->
     <img align="right" alt="Filipe-pic" height="150" style="border-radius:100px;" src="https://avatars.githubusercontent.com/u/49558962?s=400&u=8c627a765c7881f64af4963dd2989d9d7f66d728&v=4">
 </div>
