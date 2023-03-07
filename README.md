@@ -1,38 +1,74 @@
-## Olá, eu sou Filipe Sales, Desenvolvedor FrontEnd
-<div align="center">
-  <a href="https://github.com/filipe-jsales">
-  <!-- stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-jsales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- Most used langs -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-jsales&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<!-- ### Hi there 👋 -->
 
-<div style="display: inline_block"><br>
-    <!-- JS icon -->
-    <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <!-- HTML icon -->
-    <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <!-- CSS icon -->
-    <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <!-- Python icon -->
-    <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <!-- PHP icon        -->
-    <!-- Profile picture -->
-    <img align="right" alt="Filipe-pic" height="150" style="border-radius:100px;" src="https://avatars.githubusercontent.com/u/49558962?s=400&u=8c627a765c7881f64af4963dd2989d9d7f66d728&v=4">
-</div>
+# Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
-## My Socials
- 
-<div> 
-    <!-- Your youtube channel -->
-    <a href="https://www.youtube.com/channel/UCtVCupwt5hyzXRly-80FLPQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <!-- Your instagram profile -->
-    <a href="https://instagram.com/filipe.jsales" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <!-- Your twitch channel -->
-    <a href="https://www.twitch.tv/oftlol1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <!-- Your email address -->
-    <a href = "mailto:eduardojs999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- Your linkedin profile -->
-    <a href="https://www.linkedin.com/in/filipe-sales" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Hi, I'm Filipe Sales, 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil!
+- 💻 I am currently working as a Software engineer at Webera.
+- 🔭 I’m currently working with ReactJS, PHP, WordPress, TypeScript, NestJS.
+- 🌱 I’m currently learning Nest.
+<br />
 
-</div>
+## 📞 Connect with me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipe-sales/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:eduardojs999@gmail.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/filipe-jsales)
+
+<br />
+
+## 🔥 Tech Stack
+
+### Front End Skills :
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![STYLEDCOMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![REACTROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### Back End Skills :
+![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+
+### Database Skills :
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools :
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MINIKUBE](https://img.shields.io/badge/minikube-ffffff?style=for-the-badge&logo=minikube&logoColor=green)
+![MICROK8S](https://img.shields.io/badge/microk8s-ffffff?style=for-the-badge&logo=microk8s&logoColor=orange)
+
+<br />
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filipe-jsales&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipe-jsales&theme=radical&show_icons=true&hide_border=true)
+<br />
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-jsales&theme=radical&hide_border=true&layout=compact)](https://github.com/filipe-jsales/github-readme-stats)
+
+</p>
+
+## ⭐ Thanks for the visit!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=filipe-jsales&theme=radical)](https://github.com/filipe-jsales)
+<br />
+<br />
+[![Visitor Count](https://visitcount.itsvg.in/api?id=filipe-jsales&icon=0&color=0)](https://visitcount.itsvg.in)
+<br />
+<br />
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
