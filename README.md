@@ -69,6 +69,9 @@
 [![Visitor Count](https://visitcount.itsvg.in/api?id=filipe-jsales&icon=0&color=0)](https://visitcount.itsvg.in)
 <br />
 <br />
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/eduardojs999)
+
+
+
 
 
