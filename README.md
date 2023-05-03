@@ -4,8 +4,8 @@
 
 ### Hi, I'm Filipe Sales, 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil!
 - 💻 I am currently working as a Software engineer at Webera.
-- 🔭 I’m currently working with ReactJS, PHP, WordPress, TypeScript, NestJS.
-- 🌱 I’m currently learning Nest.
+- 🔭 I’m currently working with ReactJS, WordPress, Cypress, TypeScript, NestJS.
+- 🌱 I’m currently learning e2e testing with Cypress.
 <br />
 
 ## 📞 Connect with me
@@ -39,13 +39,13 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools :
-![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![CYPRESS](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MINIKUBE](https://img.shields.io/badge/minikube-ffffff?style=for-the-badge&logo=minikube&logoColor=green)
-![MICROK8S](https://img.shields.io/badge/microk8s-ffffff?style=for-the-badge&logo=microk8s&logoColor=orange)
+![MINIKUBE](https://img.shields.io/badge/minikube-0078D4?style=for-the-badge&logo=minikube&logoColor=white)
+![MICROK8S](https://img.shields.io/badge/microk8s-AA78D4?style=for-the-badge&logo=microk8s&logoColor=orange)
 
 <br />
 
