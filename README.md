@@ -4,7 +4,7 @@
 
 ### Hi, I'm Filipe Sales, 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil!
 - 💻 I am currently working as a Software engineer at Webera.
-- 🔭 I’m currently working with ReactJS, WordPress, Cypress, TypeScript, NestJS.
+- 🔭 I’m currently working with ReactJS, WordPress, Cypress, TypeScript, NestJS and NextJS.
 - 🌱 I’m currently learning Next.js
 <br />
 
