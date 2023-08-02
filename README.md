@@ -6,6 +6,7 @@
 - 💻 I am currently working as a Software engineer at Webera.
 - 🔭 I’m currently working with ReactJS, WordPress, Cypress, TypeScript, NestJS and NextJS.
 - 🌱 I’m currently learning Next.js
+- Wordpress freelancer at: https://www.freelancer.com/u/filipejsales
 <br />
 
 ## 📞 Connect with me
