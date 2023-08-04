@@ -7,6 +7,7 @@
 - 🔭 I’m currently working with ReactJS, WordPress, Cypress, TypeScript, NestJS and NextJS.
 - 🌱 I’m currently learning Next.js
 - Wordpress freelancer at: https://www.freelancer.com/u/filipejsales
+- Portfolio: [Portfolio](https://portfolio-dark-hrfrlid65-filipe-jsales.vercel.app/)
 <br />
 
 ## 📞 Connect with me
