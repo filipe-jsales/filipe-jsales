@@ -3,7 +3,7 @@
 # Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
 ### Hi, I'm Filipe Sales, 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil!
-- 💻 I am currently working as a Software engineer at Webera.
+- 💻 I am currently working as a Software engineer freelancer.
 - 🔭 I’m currently working with ReactJS, WordPress, Cypress, TypeScript, NestJS and NextJS.
 - 🌱 I’m currently learning Machine Learning and AI applied to data science.
 - Wordpress freelancer at: https://www.freelancer.com/u/filipejsales
