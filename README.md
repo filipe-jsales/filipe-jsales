@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with ReactJS, Cypress, TypeScript, Redux, Express, NestJS and NextJS.
 - 🌱 I’m currently learning Machine Learning and AI applied to data science.
 - Wordpress freelancer at: https://www.freelancer.com/u/filipejsales
-- Portfolio: [Portfolio](https://portfolio-dark-hrfrlid65-filipe-jsales.vercel.app/)
+- Portfolio: [Portfolio]([https://portfolio-dark-hrfrlid65-filipe-jsales.vercel.app/](https://eduardojsales.wordpress.com/))
 - Currently more active on [Gitlab]:(https://gitlab.com/filipe-jsales)
 <br />
 
